@@ -1,4 +1,5 @@
 <?php
+//was proposing we do it from scratch derrick02
 incude("connect2.php");
 
 $getsinput = getInput();
